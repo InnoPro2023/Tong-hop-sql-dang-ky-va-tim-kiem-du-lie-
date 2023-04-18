@@ -1,0 +1,4 @@
+$servername = "localhost";
+$username = "Guest";
+$password = "daylamatkhau";
+$dbname = "lam_web_buon_ban_thuc_pham";
